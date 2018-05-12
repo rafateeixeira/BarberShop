@@ -1,0 +1,56 @@
+Source control > link com git
+-f > força a versão a ser subida
+git push -f origin master> subir pro repositorio
+
+
+BarberShop vai ser uma aplicação, onde os Clientes vão poder fazer AGENDAMENTOS online atrave´s de uma interface WEB.
+-----------------------------------------------------------------------------------------------
+Módulo Cliente
+PAGINA PRINCIPAL
+A pagina principal será uma do tipo One Page
+Links da Página
+	Empresa
+	Serviços
+	Contato
+	Agendamento
+	Equipe
+-----------------------------------------------------------------------------------------------
+PÁGINA DE CADASTRO DE CLIENTE
+Tera uma página de cadastro com os seguintes dados:
+	Login
+	Senha
+	Nome Completo
+	Telefone
+	Celular
+-----------------------------------------------------------------------------------------------
+PÁGINA DE LOGIN
+Tera uma pagina de login com os seguintes dados:
+	Login
+	Senha
+	Integração Gmail
+	Link Esqueci Minha Senha
+	Link Novo Cadastro
+(EXEMPLO STACK OVERFLOW)
+-----------------------------------------------------------------------------------------------
+PÁGINA DE CONTA DE USUÁRIO
+Tera uma pagina de Conta de Usuário com os seguintes dados:
+	Editar dados Cadastro
+	Consulta/Cancelar de Agendamentos
+
+-----------------------------------------------------------------------------------------------
+PÁGINA DE AGENDAMENTO
+Tera uma pagina de Agendamento com os seguintes dados:
+	Barbeiro
+	Serviço(Descrição, TempoEstimado, Preço)
+	Dias e Horarios Disponiveis
+	Campos de Filtro(Serviço e Barbeiro)
+Após selecionar os filtros, serão carregados os dias e horários disponíveis.
+O usuario terá a opção de selecionar mais de um horário.
+No final da página tera um botão de confirmação de agendamento
+Após agendamento finalizado, será enviado um e-mail de notificação.
+-----------------------------------------------------------------------------------------------
+(qodbarbershop.com . Exemplo)
+	
+	
+
+	
