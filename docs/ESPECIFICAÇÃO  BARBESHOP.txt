@@ -17,7 +17,7 @@ Links da Página
 -----------------------------------------------------------------------------------------------
 PÁGINA DE CADASTRO DE CLIENTE
 Tera uma página de cadastro com os seguintes dados:
-	Login
+	E-mail
 	Senha
 	Nome Completo
 	Telefone
@@ -50,7 +50,96 @@ No final da página tera um botão de confirmação de agendamento
 Após agendamento finalizado, será enviado um e-mail de notificação.
 -----------------------------------------------------------------------------------------------
 (qodbarbershop.com . Exemplo)
+
+
+ADMIN
+
+PAGINA DE CADASTRO DE CLIENTE com os dados:
+
+
+Nome Completo
+Telefone 
+Celular
+E-MAIL
+
+PAGINA DE LOGIN com os dados:
+
+USUARIO
+SENHA
+
+PAGINA DE CADASTRO DE FUNCIONARIO:
+
+USUARIO
+SENHA
+NOME
+ENDEREÇO
+CARGO
+SERVIÇOS
+DATA DE NASCIMENTO
+CARGA HORARIA
+DIAS DE TRABALHO NA SEMANA
+SALARIO
+TELEFONE
+CELULAR
+E-MAIL
+
+PAGINA DE CADASTRO DE SERVIÇO:
+
+Descrição
+Preço
+Estimativa de tempo
+
+PAGINA DE CADASTRO DE AGENDA:
+
+Nome
+Descrição
+Dias de Atendimento(seg-ter-qua-qui-sex-sab-domingo)
+Feriados
+Periodo 
+
+PAGINA DE CADASTRO DE FERIADOS:
+
+Nome
+Data(dia e mes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
+
 	
 
 	
